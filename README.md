@@ -11,3 +11,9 @@ Los patrones de diseño se basan en principios generales de la ingeniería de so
 * Patrones estructurales: Se centran en cómo organizar y estructurar los componentes de un sistema, facilitando la comunicación y la colaboración entre ellos. Algunos ejemplos de patrones estructurales son el Adapter, el Composite y el Proxy.
 
 * Patrones de comportamiento: Se enfocan en cómo los objetos y componentes de un sistema interactúan y coordinan sus acciones, ayudando a garantizar que el sistema sea robusto y eficiente. Algunos ejemplos de patrones de comportamiento son el Strategy, el Observer y el State.
+
+## Indice de patrones de diseño del proyecto
+
+* Patrones creacionales: [Singleton](https://github.com/massinlaaouaj/design_patterns_software/tree/master/src/main/java/singleton)
+* Patrones estructurales: [Decorator](https://github.com/massinlaaouaj/design_patterns_software/tree/master/src/main/java/decorator)
+* Patrones de comportamiento: [Observer](https://github.com/massinlaaouaj/design_patterns_software/tree/master/src/main/java/observer), [Visitor](https://github.com/massinlaaouaj/design_patterns_software/tree/master/src/main/java/visitor)
